@@ -34,6 +34,7 @@ want to install the latest version from Dopamine's repository like the following
 before we install RecSim.
 
 ```
+pip install gym==0.12.4
 pip install git+https://github.com/google/dopamine.git
 ```
 
